@@ -1,12 +1,12 @@
 # Gonzalo Nieto
 
-### About Me
+### About Me 🙋‍♂️
 
 - I am 20 years old, I am from Argentina Buenos Aires.
 - I am self-taught and very persistent, which leads me to practice and learn every day, in this world of software.
 - I focus more on the backend, since it´s what I love, and for me, a correct management of the internal functionality of any project is very important.
 
-## Skills
+## Technologies
 
 ###
 
@@ -33,9 +33,3 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
 </div>
-
-###
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gonza0922&show_icons=true&locale=en&layout=compact" alt="Gonza0922" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Gonza0922&show_icons=true&locale=en" alt="Gonza0922" /></p>
