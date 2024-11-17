@@ -2,7 +2,7 @@
 
 ### About Me 🙋‍♂️
 
-- I am 20 years old, I am from Argentina Buenos Aires.
+- I am 21 years old, I am from Argentina Buenos Aires.
 - I am self-taught and very persistent, which leads me to practice and learn every day, in this world of software.
 - I focus more on the backend, since it´s what I love, and for me, a correct management of the internal functionality of any project is very important.
 
@@ -23,6 +23,8 @@
   <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="nestjs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
