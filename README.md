@@ -2,7 +2,7 @@
 
 ### About Me 🙋‍♂️
 
-- I am 21 years old, I am from Argentina Buenos Aires.
+- I am 22 years old, I am from Argentina Buenos Aires.
 - I am self-taught and very persistent, which leads me to practice and learn every day, in this world of software.
 - I focus more on the backend, since it´s what I love, and for me, a correct management of the internal functionality of any project is very important.
 
